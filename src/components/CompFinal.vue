@@ -4,6 +4,7 @@
     <button class="final-botao" v-on:click="jogarNovamente">
       Jogar novamente
     </button>
+    <footer><i>Dimas Capelari - 2022</i></footer>
   </div>
 </template>
 

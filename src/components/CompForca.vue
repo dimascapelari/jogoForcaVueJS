@@ -2,7 +2,7 @@
   <div class="forca">
     <!--<img :src="`../img/${erros}.svg`" />-->
     <img
-      :src="`https://raw.githubusercontent.com/william-costa/wdev-hangman-game-resources/master/images/hangman/${erros}.svg`"
+      :src="`https://raw.githubusercontent.com/dimascapelari/jogoForcaVueJS/b862d9dd25121065eb4a4a3f2e5abcc814c74784/src/assets/${erros}.svg`"
     />
   </div>
 </template>
